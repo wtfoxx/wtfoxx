@@ -1,10 +1,8 @@
 ## Salutations earth,
 
-👋🏻 My name is Leticia Monteiro, but you can call me Lemon (because LEticia MONteiro, get it? 😅), or Fox, or Leticia, or whatever you want really, I'm cool with that. My pronouns are she/her/hers. 
+👋🏻 My name is Leticia Monteiro
 
-🌎 I'm a brazilian located in western Canada with a bachelor's degree in Graphic Design, with a little bit of work experience in UX/UI Design.
-
-💻 Currently enrolled in a full-stack development bootcamp (since Jan-2022), and making my way to shifting careers into development. I plan on concluding the bootcamp around May, so stay tuned.
+🌎 I'm a brazilian located in western Canada with a bachelor's degree in Graphic Design, with a little bit of work experience in UX/UI Design, and recently completed a Full-stack development program at CareerFoundry
 
 📫 If you want to talk to me you can [email me](mailto:leticiagmonteiro@gmail.com), or send me a message on [LinkedIn](https://www.linkedin.com/in/leticia-monteiro-408ba2111/)
 
